@@ -1,0 +1,19 @@
+                                                                  Capstone Project Report:
+
+The query: 
+
+Canada is one of the most popular countries in the world and the most popular city in it is not the capital Ottawa, but the city of Toronto.
+Toronto has a population of 2.81 million with a size of 630.2 sq km , that is a population density of approx 4150 people per sq km.
+
+Toronto does not have the best of weather conditions. The avg highest temperature recorded is about 27 degree celcius. The temperatures are generally around 15-20 degrees while ocassionaly hitting negetives of upto -7 degrees. 
+
+Despite such conditions, Toronto is a prime destination for tourism and immigrants. I will attempt to decipher some of the reasons why using this project.
+
+-----------------------
+
+Basic description of the solution:
+
+I will create a pandas dataframe using data collected from the internet to create a table of different neighborhoods in Toronto. Using this i will attempt to access foursquare api to get data related to my query.
+
+Finally, i will come to a conclusion based on the data collected be me.
+-----------------------
