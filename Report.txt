@@ -17,3 +17,20 @@ I will create a pandas dataframe using data collected from the internet to creat
 
 Finally, i will come to a conclusion based on the data collected be me.
 -----------------------
+
+Methodology:
+I will use the foursquare location data api to access the number of facilities present within a specified radius of Toronto, thus , attempting to uncover the appeal of living in neighborhood of Toronto, Canada.
+-----------------------
+
+Results:
+Number of Shopping centers in a radius of 5km- 12
+Number of Restaurants in a 5km radius- 50
+Number of Museums - 49
+Number of Hospitals in a 5km radius- 50
+-----------------------
+
+Conclusion:
+
+Despite the colder than average living conditions, Toronto provides ease of living to a high standard.
+This is made clear from the results obtained in this project. 
+Therefore, Toronto,Canada is a wonderful neighborhood to live in or visit as a tourist.
